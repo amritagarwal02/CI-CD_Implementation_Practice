@@ -34,4 +34,8 @@ display(df_grouped)
 
 # COMMAND ----------
 
+display(df.count())
+
+# COMMAND ----------
+
 

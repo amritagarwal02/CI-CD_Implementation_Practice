@@ -4,6 +4,10 @@ from pyspark.sql.functions import col, avg
 
 # COMMAND ----------
 
+print("Hiiiiiiiiiiiii")
+
+# COMMAND ----------
+
 data = [
     (1, "Alice", 23, "Engineering"),
     (2, "Bob", 29, "Marketing"),
